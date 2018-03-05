@@ -43,7 +43,6 @@
               
    	  }
      
-
       
       private function setData($data = array()) 
       {
@@ -54,7 +53,6 @@
 
       }
       
-
       
       public function setTpl($name, $data = array(), $returnHTML = false) 
       {
